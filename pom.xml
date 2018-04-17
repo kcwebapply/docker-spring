@@ -1,6 +1,6 @@
 
 <properties>
-	<docker.image.prefix>kcspring</docker.image.prefix>
+	<docker.image.prefix>kcaiueo</docker.image.prefix>
 </properties>
 <build>
 	   <plugins>
